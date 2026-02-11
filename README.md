@@ -18,9 +18,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tharusha-2004&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tharusha-2004&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharusha-2004&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharusha-2004&layout=compact&theme=dark)
 
 ---
 
