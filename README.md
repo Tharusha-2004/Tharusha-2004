@@ -18,9 +18,13 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tharusha-2004&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharusha-2004&layout=compact&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tharusha-2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Tharusha-2004's GitHub Stats" style="max-width: 100%;" />
+</a>
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharusha-2004&theme=dark&hide_border=false&layout=compact" alt="Tharusha-2004's Top Languages" style="max-width: 100%;" />
+</a>
 
 ---
 
