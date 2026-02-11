@@ -1,10 +1,20 @@
-Hi, I'm Tharusha Nethmina 👋
+# Hi 👋 I'm Tharusha Nethmina
 
-🎓 Student developer passionate about AI, ML, and software development
-🤖 Exploring Machine Learning and intelligent systems
-🌱 Improving skills in Full Stack Development
-📈 Always learning new technologies and building projects
-💡 Interested in solving real-world problems with AI
+🤖 AI & Machine Learning Enthusiast  
+💻 Full Stack Developer in progress  
+🌱 Learning Python, Java & JavaScript  
+🎯 Future AI Engineer  
+
+---
+
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+
+---
 
 ## 📊 GitHub Stats
 
@@ -12,12 +22,6 @@ Hi, I'm Tharusha Nethmina 👋
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharusha-2004&layout=compact)
 
+---
 
-## 🚀 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![Java](https://img.shields.io/badge/Java-orange?logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-red?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
-![Git](https://img.shields.io/badge/Git-black?logo=git)
+![Visitor Count](https://komarev.com/ghpvc/?username=Tharusha-2004)
