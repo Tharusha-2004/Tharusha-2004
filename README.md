@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Tharusha Nethmina 👋
 
-<!--
-**Tharusha-2004/Tharusha-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student developer passionate about AI, ML, and software development
+🤖 Exploring Machine Learning and intelligent systems
+🌱 Improving skills in Full Stack Development
+📈 Always learning new technologies and building projects
+💡 Interested in solving real-world problems with AI
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tharusha-2004&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharusha-2004&layout=compact)
+
+
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-red?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+![Git](https://img.shields.io/badge/Git-black?logo=git)
