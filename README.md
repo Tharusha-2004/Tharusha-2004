@@ -1,27 +1,80 @@
-# Hi 👋 I'm Tharusha Nethmina
-
-🤖 AI & Machine Learning Enthusiast  
-💻 Full Stack Developer in progress  
-🌱 Learning Python, Java & JavaScript  
-🎯 Future AI Engineer  
+<h1 align="center">Hi 👋 I'm Tharusha Nethmina</h1>
+<h3 align="center">💻 Full-Stack Developer | 🤖 AI & ML Enthusiast | 🔌 IoT Builder</h3>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 About Me
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![Java](https://img.shields.io/badge/Java-orange?logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![Git](https://img.shields.io/badge/Git-black?logo=git)
+- 🎓 IT student passionate about technology  
+- 🤖 Currently focusing on **AI & Machine Learning**
+- 🔌 Love building **IoT & Arduino projects**
+- 🌱 Learning Full-Stack Development
+- ⚡ Goal: Become a professional Software Engineer
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/tharusha-nethmina-316b08317" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+
+<a href="https://fb.com/tharusha nethmina" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tharusha-2004&show_icons=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tharusha-2004&show_icons=true&theme=tokyonight"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharusha-2004&layout=compact)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tharusha-2004&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tharusha-2004&show_icons=true&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Tharusha-2004)
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=tharusha-2004&theme=onedark"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=tharusha-2004&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+⭐ *"Always learning, always building!"*
