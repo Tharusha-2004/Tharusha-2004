@@ -61,13 +61,7 @@
 
 ---
 
-## 🏆 Achievements
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tharusha-2004&theme=onedark"/>
-</p>
-
----
 
 ## 👀 Profile Views
 
