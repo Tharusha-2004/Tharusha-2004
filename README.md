@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Mea
+## 🚀 About Me
 
 - 🎓 IT student passionate about technology  
 - 🤖 Currently focusing on **AI & Machine Learning**
