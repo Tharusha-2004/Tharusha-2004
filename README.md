@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🎓 IT student passionate about technology  
+- 🎓 IT student passionate about technology       
 - 🤖 Currently focusing on **AI & Machine Learning**
 - 🔌 Love building **IoT & Arduino projects**
 - 🌱 Learning Full-Stack Development
